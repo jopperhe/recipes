@@ -1,15 +1,16 @@
 # Pizza:
 
-430 gram 00 bloem
-30 gram volkoren
-10 gram zout
-65 gram starter
-325 ml water
+### Ingredients
+- 430 gram type 00 flower
+- 30 gram whole grain flower
+- 10 gram salt
+- 65 gram sourdough starter
+- 325 ml water
 
-- Kneden 5-8 minuten met dat flop flop flop
-- Rijzen in de oven met het lampje aan voor 2,5 uur met 3 stretch and folds 30 minuten uitelkaar
-- Bol maken, in een bak met olijfolie. 14 uur in de koelkast.
-- Door tweeën delen en bolletjes maken. 4-5 uur laten proofen in kamertemperatuur.
-- In de koelkast in voor 30 minuten voor makkelijker pizza's vormen
-- Bakken
+- Knead for 5-8 minutes with rubaud method 
+- Proof in the oven with just the light on for 2,5 hours. Do 3 strech 'n folds spaced 30 minutes apart.
+- Make a ball of dough and put it in a container coated with olive oil. Put a lid or plastic wrap on the container and put it in the fridge for 14 hours.
+- Divide the dough into two balls. Proof for 4-5 uur at room temperature.
+- Optional: leave the dough to rest in the fridge for 30 minutes for easier shaping.
+- Bake the pizza on a pizza stone.
 
