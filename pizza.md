@@ -7,6 +7,7 @@
 - 65 gram sourdough starter
 - 325 ml water
 
+### Method
 - Knead for 5-8 minutes with rubaud method 
 - Proof in the oven with just the light on for 2,5 hours. Do 3 strech 'n folds spaced 30 minutes apart.
 - Make a ball of dough and put it in a container coated with olive oil. Put a lid or plastic wrap on the container and put it in the fridge for 14 hours.
